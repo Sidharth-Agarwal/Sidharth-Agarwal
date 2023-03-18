@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <table width="320px">
-   <tbody>
+  <tbody>
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
@@ -48,14 +48,14 @@
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
             </td>
-                    </tr>
+           
+        </tr>
         <tr valign="top">
-           <td width="80px" align="center">
+            <td width="80px" align="center">
             <span><strong>React</strong></span><br>
               <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
             </td>
-            
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
               <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -72,7 +72,6 @@
             </td>
             
         </tr>
-    
     </tbody>
 </table>
 
