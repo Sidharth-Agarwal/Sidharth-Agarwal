@@ -48,13 +48,13 @@
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
             </td>
+            <td width="80px" align="center">
             
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-              <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a>
+            
             </td>
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
@@ -70,7 +70,9 @@
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></a>
             </td>
-            
+            <td width="80px" align="center">
+           
+            </td>
         </tr>
     </tbody>
 </table>
