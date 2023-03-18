@@ -1,4 +1,4 @@
-![02](https://user-images.githubusercontent.com/98648970/166180404-66f8aa20-eb8d-4234-872f-5cca67b0ccf7.jpg)
+![02](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.png)
 
 <h1 align="center">Hi 👋, I'm Sidharth Agarwal</h1>
 <h3 align="center">A passionate Full-stack developer and DSA Lover.</h3>
