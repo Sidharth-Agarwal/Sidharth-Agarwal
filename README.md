@@ -65,6 +65,7 @@
             <span><strong>GitHub</strong></span><br>
               <a href="https://github.com/thakuratul2" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+          </td>
             <td width="80px" align="center">
             <span><strong>Javascript</strong></span><br>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
