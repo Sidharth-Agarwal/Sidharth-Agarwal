@@ -26,12 +26,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <table width="320px">
-    <tbody>
+   <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>C++</strong></span><br>
-            <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://www.techworm.net/programming/wp-content/uploads/2018/09/cpppp-490x490.png"></a>
+            <span><strong>Java</strong></span><br>
+            <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://www.pngfind.com/pngs/m/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>Bootstrap</strong></span><br>
@@ -48,7 +48,11 @@
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
             </td>
-            
+            <td width="80px" align="center">
+            <span><strong>PHP</strong></span><br>
+            <a href="https://www.php.net" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></a>
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -65,13 +69,16 @@
             <span><strong>GitHub</strong></span><br>
               <a href="https://github.com/thakuratul2" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-          </td>
             <td width="80px" align="center">
             <span><strong>Javascript</strong></span><br>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></a>
             </td>
-            
+            <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MySQL_textlogo.svg/2560px-MySQL_textlogo.svg.png"></a>
+            </td>
         </tr>
     </tbody>
 </table>
