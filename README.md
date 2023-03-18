@@ -29,7 +29,7 @@
             <td width="80px" align="center">
             <span><strong>C++</strong></span><br>
             <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
-            <img height="32px" src="[https://www.pngfind.com/pngs/m/74-744402_java-logo-png-transparent-svg-vector-freebie-supply.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)"></a>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></a>
             </td>
             <td width="80px" align="center">
             <span><strong>Bootstrap</strong></span><br>
