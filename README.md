@@ -8,9 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakuratul2&label=Profile%20views&color=0e75b6&style=flat" alt="sidharth-agarwal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thakuratul_28" target="blank"><img src="https://img.shields.io/twitter/follow/thakuratul_28?logo=twitter&style=for-the-badge" alt="thakuratul_28" /></a> </p>
-
-- 🔭 I’m currently working on my backend skills and apparently working on different projects.
+- 🔭 I’m currently working on my front-end skill and learning to make website more appealing through ux/ui.
 
 - 📫 How to reach me **sidharthagarwal.2003@gmail.com**
 
