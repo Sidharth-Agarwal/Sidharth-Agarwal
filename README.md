@@ -48,12 +48,7 @@
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
             </td>
-            <td width="80px" align="center">
-            <span><strong>PHP</strong></span><br>
-            <a href="https://www.php.net" target="_blank" rel="noreferrer">
-            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></a>
-            </td>
-        </tr>
+                    </tr>
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>React</strong></span><br>
