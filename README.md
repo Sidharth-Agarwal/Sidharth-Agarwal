@@ -30,7 +30,7 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>C++</strong></span><br>
-            <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+            <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer">
             <img height="32px" src="https://www.techworm.net/programming/wp-content/uploads/2018/09/cpppp-490x490.png"></a>
             </td>
             <td width="80px" align="center">
