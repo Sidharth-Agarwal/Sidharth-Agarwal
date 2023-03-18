@@ -17,9 +17,9 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<code><a href="https://www.linkedin.com/in/sidharth-agarwal-175b55202/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="sidharth-agarwal" height="30" width="30" /></a></code>
-<code><a href="https://www.instagram.com/cereseditz/?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="cereseditz" height="30" width="30" /></a></code>
-<code><a href="https://leetcode.com/sidharth_2003/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="sidharth_agarwal" height="30" width="30" /></a></code>
+<code><a href="https://www.linkedin.com/in/sidharth-agarwal-175b55202/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="sidharth-agarwal" height="30" width="30" /></a></code>
+<code><a href="https://www.instagram.com/cereseditz/?igshid=ZDdkNTZiNTM=" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="cereseditz" height="30" width="30" /></a></code>
+<code><a href="https://leetcode.com/sidharth_2003/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="sidharth_agarwal" height="30" width="30" /></a></code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
