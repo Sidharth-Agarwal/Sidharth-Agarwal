@@ -86,5 +86,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sidharth-Agarwal&show_icons=true&locale=en&show_icons=true&theme=radical" alt="Sidharth-Agarwal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidharth-Agarwal&&show_icons=true&theme=radical" alt="Sidharth-Agarwal" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sidharth-Agarwal&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidharth-Agarwal&&show_icons=true&theme=radical" alt="Sidharth-Agarwal" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sidharth-Agarwal&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sidharth-Agarwal&theme=dark&hide_border=true)](https://git.io/streak-stats)" alt="Sidharth-Agarwal" /></p>
