@@ -81,7 +81,6 @@
         </tr>
     </tbody>
 </table>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidharth-Agarwal&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="Sidharth-Agarwal" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sidharth-Agarwal&show_icons=true&locale=en&show_icons=true&theme=radical" alt="Sidharth-Agarwal" /></p>
