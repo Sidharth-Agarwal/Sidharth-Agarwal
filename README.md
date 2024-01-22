@@ -5,9 +5,7 @@
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakuratul2&label=Profile%20views&color=0e75b6&style=flat" alt="sidharth-agarwal" /> </p>
-
 - 🔭 I’m currently working on my front-end skill and learning to make website more appealing through ux/ui.
-
 - 📫 How to reach me **sidharthagarwal.2003@gmail.com**
 <div id="header" >
   <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"/>
