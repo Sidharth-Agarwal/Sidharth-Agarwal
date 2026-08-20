@@ -4,5 +4,3 @@
 - 💬 Ask me about **MERN, C++, Python, System Design or anything in general. Would love to connect.**
 
 - 📫 How to reach me **sidharthagarwal.2003@gmail.com**
-
-- ⚡ Fun fact **I think that I am OP**
